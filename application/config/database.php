@@ -49,7 +49,7 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'democlinicsql01.mysql.database.azure.com';
-$db['default']['username'] = 'clinicroot';
+$db['default']['username'] = 'clinicroot@democlinicsql01';
 $db['default']['password'] = 'adm@1234adm@1234';
 $db['default']['database'] = 'clinic';
 $db['default']['dbdriver'] = 'mysqli';
